@@ -5,7 +5,7 @@ Just a simple mass config generator for ArchiSteamFarm written in nodejs
 # Using
 1. Install NodeJS
 2. Fill 'input.txt' with your accounts in format of login:password
-3. Run index.js
+3. Run ```index.js```
 4. Check out 'output' folder
 
 # Editing config template
